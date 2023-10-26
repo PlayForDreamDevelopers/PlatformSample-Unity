@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sample/Entrance.unity
+    guid: 822db2c22e979bc469c7d1d1e1d7d75d
+  - enabled: 1
+    path: Assets/Sample/0-Initialize/Initialize.unity
+    guid: 542c8b2e9a9c5074795f8330f47fedd9
+  - enabled: 1
+    path: Assets/Sample/1-EntitlementCheck/EntitlementCheck.unity
+    guid: c8001571d88e2d7429cc1bb680ddbd13
+  - enabled: 1
+    path: Assets/Sample/2-Account/Account.unity
+    guid: 68bd483857495bb419a345b6f79e19ef
+  - enabled: 1
+    path: Assets/Sample/3-Friends/Friends.unity
+    guid: a2cd145a861155b4387c5f7587ae1b61
+  - enabled: 1
+    path: Assets/Sample/4-Achievement/Achievement.unity
+    guid: 5e2aa3c3e7efe734b8c594094be340c7
+  - enabled: 1
+    path: Assets/Sample/5-Leaderboard/Leaderboard.unity
+    guid: 75222a5e07072054d82b32e17109548b
+  - enabled: 1
+    path: Assets/Sample/6-IAP/IAP.unity
+    guid: 49a243e604571304f963df1f04ab6b94
+  - enabled: 1
+    path: Assets/Sample/7-Sports/Sports.unity
+    guid: 3ac3b0aa34dd92e4b934736b2a54d4bb
+  m_configObjects: {}
