@@ -1,0 +1,21 @@
+{
+    "name": "YVR.Interaction.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b490b9cec441c9147965c3046cfe2f1d",
+        "GUID:27398fb0594bba74fafa811bc0710732",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:f9fe0089ec81f4079af78eb2287a6163"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
