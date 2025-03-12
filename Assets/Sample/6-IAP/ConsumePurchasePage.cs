@@ -1,6 +1,8 @@
+using System;
 using UnityEngine;
 using YVR.Platform;
 
+[Obsolete("Recommended reference LaunchCheckoutFlowPage")]
 public class ConsumePurchasePage : OperationPage
 {
     protected override void OnClickExecute()
