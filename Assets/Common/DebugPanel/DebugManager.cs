@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 using UnityEngine;
+using YVR.Utilities;
 
 public class DebugManager : MonoBehaviorSingleton<DebugManager>
 {
