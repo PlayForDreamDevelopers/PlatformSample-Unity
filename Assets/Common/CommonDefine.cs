@@ -84,4 +84,5 @@ public enum OperationType
     GetSportUserInfo = 19,
     GetSportSummary = 20,
     GetSportDailySummary = 21,
+    StartMovie = 8001,
 }
