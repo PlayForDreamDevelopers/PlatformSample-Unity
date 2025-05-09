@@ -150,14 +150,14 @@
       "url": "https://packages.unity.com"
     },
     "com.yvr.platform": {
-      "version": "https://github.com/PlayForDreamDevelopers/com.yvr.platform-mirror.git?path=/com.yvr.platform#version_0.6.0",
+      "version": "https://github.com/PlayForDreamDevelopers/com.yvr.platform-mirror.git?path=/com.yvr.platform#version_0.6.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.yvr.utilities": "0.1.18",
         "com.unity.nuget.newtonsoft-json": "2.0.0"
       },
-      "hash": "dd0f202356af6bde1a6df9407f018743d4a0a2be"
+      "hash": "017fc7874a37d27d244c5429cfbce42a3119c46e"
     },
     "com.yvr.utilities": {
       "version": "https://github.com/PlayForDreamDevelopers/com.yvr.utilities-mirror.git?path=/com.yvr.utilities#version_0.15.12",
